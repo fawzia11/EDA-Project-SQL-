@@ -29,8 +29,4 @@ The aim is to clean, explore, and analyze data to uncover **patterns, trends, an
 - Revealed **sales trends by category and country**.  
 - Discovered **average costs per category** and customer distribution.  
 
----
 
-
-
-## 📂 Repository Structure
